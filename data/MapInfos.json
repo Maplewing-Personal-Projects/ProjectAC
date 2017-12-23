@@ -1,6 +1,7 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Graveyard","order":2,"parentId":0,"scrollX":699,"scrollY":488.5},
-{"id":2,"expanded":false,"name":"CutScene","order":1,"parentId":0,"scrollX":699,"scrollY":488.5},
-{"id":3,"expanded":false,"name":"Graveyard B2F","order":3,"parentId":1,"scrollX":691,"scrollY":480.5}
+{"id":1,"expanded":true,"name":"Graveyard","order":3,"parentId":0,"scrollX":699,"scrollY":488.5},
+{"id":2,"expanded":false,"name":"CutScene","order":2,"parentId":0,"scrollX":699,"scrollY":488.5},
+{"id":3,"expanded":false,"name":"Graveyard B2F","order":4,"parentId":1,"scrollX":691,"scrollY":480.5},
+{"id":4,"expanded":false,"name":"NotRemoved","order":1,"parentId":0,"scrollX":699,"scrollY":488.5}
 ]
